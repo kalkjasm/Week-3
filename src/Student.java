@@ -9,6 +9,7 @@
  */
 public class Student {
     private String name;
+    private STring semester;
 
     /**
      * @return the name
